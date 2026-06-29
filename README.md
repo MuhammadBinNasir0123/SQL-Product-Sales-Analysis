@@ -10,11 +10,11 @@ A modular SQL analysis project examining product sales performance across region
 |---|---|
 | Total Revenue | $4,379,992 |
 | Total Units Sold | 15,616 |
-| Peak Month | March 2023 — $208,549 |
-| Lowest Month | October 2023 — $78,446 |
-| Top Region | North — $967,958 (22.1%) |
+| Peak Month | March 2023: $208,549 |
+| Lowest Month | October 2023: $78,446 |
+| Top Region | North: $967,958 (22.1%) |
 | Retail vs Wholesale Split | 50.1% / 49.9% |
-| Top Product by Revenue | Tablet — $684,539 |
+| Top Product by Revenue | Tablet: $684,539 |
 
 ---
 
