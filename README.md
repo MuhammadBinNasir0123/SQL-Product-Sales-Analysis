@@ -72,7 +72,6 @@ A modular SQL analysis project examining product sales performance across region
 ## Project Structure
 
 ```
-├── LICENSE
 ├── Monthly Sales Performance.sql
 ├── Revenue By Customer Type.sql
 ├── Revenue By Product Type and Sales.sql
