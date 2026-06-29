@@ -44,11 +44,11 @@ A modular SQL analysis project examining product sales performance across region
 
 ## Analysis Performed
 
-- **Monthly Sales Performance** — Revenue trends across 2023–2024
-- **Revenue by Customer Type** — Retail vs wholesale breakdown
-- **Revenue by Product** — Top performing product categories
-- **Revenue by Region** — Geographic sales distribution
-- **Total Sales & Revenue** — Consolidated business snapshot
+- **Monthly Sales Performance**: Revenue trends across 2023–2024
+- **Revenue by Customer Type**: Retail vs wholesale breakdown
+- **Revenue by Product**: Top performing product categories
+- **Revenue by Region**: Geographic sales distribution
+- **Total Sales & Revenue**: Consolidated business snapshot
 
 ---
 
